@@ -2,7 +2,7 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
-</picture> Hi! I'm Maria
+</picture> Hi! I'm Maria G!
 </h2>
 
 <p align="center">
@@ -11,8 +11,14 @@
 
 <p align="center">
 💡 Passion for creating efficient and high-quality code.
+I am committed to continuous learning and constant improvement.
+Crafting innovative solutions
 </p>
 
+
+<p align="center"> 
+Welcome!
+</p>
 
 <h2 align="center">
 
@@ -56,7 +62,7 @@
 <!----[MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=101010)---> 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=F05033&labelColor=101010) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-![AWS](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)  
+![AWS](https://img.shields.io/badge/aws-2496ED?style=for-the-badge&logo=aws&logoColor=2496ED&labelColor=101010)  
 <!----[[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010) 
 ![[Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=0678BE&labelColor=101010) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)---> 
