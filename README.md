@@ -11,7 +11,13 @@
 
 <p align="center">
 💡 Passion for creating efficient and high-quality code.
+</p>
+
+<p align="center">
 I am committed to continuous learning and constant improvement.
+</p>
+
+<p align="center">
 Crafting innovative solutions
 </p>
 
@@ -62,7 +68,7 @@ Welcome!
 <!----[MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=101010)---> 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=F05033&labelColor=101010) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-![AWS](https://img.shields.io/badge/AWS-FF6C37?style=for-the-badge&logo=AWS&logoColor=FF6C37&labelColor=101010)  
+![AWS](https://img.shields.io/badge/aws-FF6C37?style=for-the-badge&logo=aws-cdk&logoColor=FF6C37&labelColor=101010)  
 <!----[[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010) 
 ![[Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=0678BE&labelColor=101010) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)---> 
