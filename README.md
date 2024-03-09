@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  🛠️ Full-stack dev from the south of Spain.
+   Full-stack dev from the mid-south of Spain. 🧑‍💻
 </p>
 
 <p align="center">
@@ -14,11 +14,12 @@
 </p>
 
 <p align="center">
-I am committed to continuous learning and constant improvement.
+ I am committed to continuous learning and constant improvement.👩‍💻
+
 </p>
 
 <p align="center">
-Crafting innovative solutions
+🚀Crafting innovative solutions
 </p>
 
 
@@ -28,7 +29,7 @@ Welcome!
 
 <h2 align="center">
 
-⚡ Tech Stack / Skills:
+⚡ Tech Stack / Skills: 🧰
 
 </h2>
 
