@@ -40,7 +40,7 @@
 
 ![Redux](https://img.shields.io/badge/Symfony-0077b5?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)
-![React](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=101010)
+![React](https://img.shields.io/badge/React-563d7c?style=for-the-badge&logo=react&logoColor=563d7c&labelColor=101010)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20b8c9?style=for-the-badge&logo=tailwind-css&logoColor=20b8c9&labelColor=101010)
 
 
