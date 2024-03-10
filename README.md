@@ -80,7 +80,10 @@ Welcome!
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
+
+ Last Updated on 10/03/2024 00:37:23 UTC
 <!--END_SECTION:waka-->
 
 
