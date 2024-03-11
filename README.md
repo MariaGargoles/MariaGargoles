@@ -2,7 +2,7 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
-</picture> Hi! I'm Maria G!
+</picture> Hellow! I'm Maria G!
 </h2>
 
 <p align="center">
