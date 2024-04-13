@@ -83,6 +83,7 @@ Welcome!
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 >>>>>>> 105107b (Updated with Dev Metrics)
@@ -103,6 +104,9 @@ Welcome!
 =======
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 >>>>>>> d079149 (Updated with Dev Metrics)
+=======
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+>>>>>>> c050f40 (Updated with Dev Metrics)
 
 **I'm an Early 🐤** 
 
@@ -450,6 +454,7 @@ Last Updated on 02/04/2024 00:35:54 UTC
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 > > > > > > > 46bd068 (Updated with Dev Metrics)
 
 <<<<<<< HEAD
@@ -489,6 +494,9 @@ Last Updated on 02/04/2024 00:35:54 UTC
 =======
  Last Updated on 12/04/2024 18:24:17 UTC
 >>>>>>> d079149 (Updated with Dev Metrics)
+=======
+ Last Updated on 13/04/2024 00:30:18 UTC
+>>>>>>> c050f40 (Updated with Dev Metrics)
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
