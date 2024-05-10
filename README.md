@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-   Full-stack dev from the mid-south of Spain. 🧑‍💻
+   Full-stack dev from Madrid. 🧑‍💻
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@
 🚀Crafting innovative solutions
 </p>
 
-
 <p align="center"> 
 Welcome!
 </p>
@@ -37,7 +36,6 @@ Welcome!
 
 <div align="center">
 
-  
 ![HTML5](https://img.shields.io/badge/HTML5-f76537?style=for-the-badge&logo=HTML5&logoColor=f76537&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/CSS3-2396f3?style=for-the-badge&logo=CSS3&logoColor=2396f3&labelColor=101010)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=101010)
@@ -45,18 +43,17 @@ Welcome!
 ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=101010)
 ![Java](https://img.shields.io/badge/Java-ed1c24?style=for-the-badge&logo=oracle&logoColor=ed1c24&labelColor=101010)
 
-
-
 </div>
 
 <div align="center">
 
-<!---![Redux](https://img.shields.io/badge/redux-0077b5?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)--->
+![Redux](https://img.shields.io/badge/redux-0077b5?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)
+
 <!---![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)--->
+
 ![React](https://img.shields.io/badge/React-563d7c?style=for-the-badge&logo=react&logoColor=563d7c&labelColor=101010)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20b8c9?style=for-the-badge&logo=tailwind-css&logoColor=20b8c9&labelColor=101010)
 ![Django](https://img.shields.io/badge/django-4EA94B?style=for-the-badge&logo=django&logoColor=4EA94B&labelColor=101010)
-
 
 </div>
 
@@ -72,67 +69,16 @@ Welcome!
 ![AWS](https://img.shields.io/badge/aws-FF6C37?style=for-the-badge&logo=aws-cdk&logoColor=FF6C37&labelColor=101010)  
 <!----[[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010) 
 ![[Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=0678BE&labelColor=101010) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)---> 
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)--->
 
 </div>
 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                254 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.67 % 
-🌆 Daytime                396 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.70 % 
-🌃 Evening                229 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.85 % 
-🌙 Night                  7 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.79 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   145 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.37 % 
-Tuesday                  165 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.62 % 
-Wednesday                151 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.04 % 
-Thursday                 172 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.41 % 
-Friday                   112 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.64 % 
-Saturday                 76 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.58 % 
-Sunday                   65 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-JavaScript               11 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.74 % 
-CSS                      2 hrs 10 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.76 % 
-HTML                     9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.17 % 
-Other                    1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.14 % 
-Git Config               1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.14 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.43 % 
-Python                   5 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.74 % 
-HTML                     5 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.74 % 
-PHP                      2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.70 % 
-SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.35 % 
-```
-
-
-
-
- Last Updated on 10/05/2024 00:37:02 UTC
 <!--END_SECTION:waka-->
 
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaGargoles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariagargoles&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false&v=udfgdf" /></a>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaGargoles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariagargoles&bg_color=1F222E&color=F8D866&line=175F83&point=FFFFFF&hide_border=false&v=udfgdf" /></a>
