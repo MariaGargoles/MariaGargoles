@@ -127,5 +127,4 @@ Last Updated on 04/06/2024 00:38:25 UTC
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaGargoles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariagargoles&bg_color=566573&color=eaecee
-&line=aad6ec&point=FFFFFF&hide_border=false&v=udfgdf" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MariaGargoles's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mariagargoles&bg_color=566573&color=eaecee&line=aad6ec&point=FFFFFF&hide_border=false&v=udfgdf" /></a>
