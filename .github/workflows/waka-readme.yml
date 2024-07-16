@@ -1,34 +1,22 @@
 name: Waka Readme
 
 on:
-  # Trigger manually or on a schedule
+  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs at 12 AM UTC (5:30 AM IST)
+    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
-
-      - name: Set up PHP
-        uses: shivammathur/setup-php@v2
+      # this action name
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
-          php-version: "8.1" # Ajusta según la versión de PHP que necesites
-
-      - name: Install dependencies
-        run: composer install
-
-      - name: Update README with WakaTime Stats
-        uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Token de GitHub para autenticación
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Clave API de WakaTime
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           SHOW_TIMEZONE: "True"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
@@ -40,11 +28,3 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_PROFILE_VIEWS: "True"
           SHOW_UPDATED_DATE: "True"
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.email "mariagargoles@live.com"
-          git config --global user.name "MariaGargoles"
-          git add .
-          git commit -m "Update README with WakaTime stats" || echo "No changes to commit"
-          git push
