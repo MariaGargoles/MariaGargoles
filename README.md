@@ -47,13 +47,12 @@ Welcome!
 
 <div align="center">
 
+
 ![Redux](https://img.shields.io/badge/redux-70407b?style=for-the-badge&logo=redux&logoColor=a10684&labelColor=101010)
 ![Typescript](https://img.shields.io/badge/typescript-0089b5?style=for-the-badge&logo=typescript&logoColor=276e8e&labelColor=101010)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)
 ![SASS](https://img.shields.io/badge/sass-C66394?style=for-the-badge&logo=sass&logoColor=C66394&labelColor=101010)
-
-<!--![Laravel](https://img.shields.io/badge/laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=777BB4&labelColor=101010)--->
-
+![Laravel](https://img.shields.io/badge/laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=777BB4&labelColor=101010)
 ![React](https://img.shields.io/badge/React-00a1b5?style=for-the-badge&logo=react&logoColor=1fc0ff&labelColor=101010)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20b8c9?style=for-the-badge&logo=tailwind-css&logoColor=20b8c9&labelColor=101010)
 ![Django](https://img.shields.io/badge/django-4EA94B?style=for-the-badge&logo=django&logoColor=4EA94B&labelColor=101010)
@@ -71,8 +70,8 @@ Welcome!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
 ![AWS](https://img.shields.io/badge/aws-FF6C37?style=for-the-badge&logo=aws-cdk&logoColor=FF6C37&labelColor=101010)  
 <!----[[WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=101010) 
-![[Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=0678BE&labelColor=101010) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)--->
+![[Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=0678BE&labelColor=101010)---> 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=101010)
 
 </div>
 
