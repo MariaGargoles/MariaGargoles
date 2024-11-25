@@ -56,6 +56,8 @@ Welcome!
 ![React](https://img.shields.io/badge/React-00a1b5?style=for-the-badge&logo=react&logoColor=1fc0ff&labelColor=101010)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-20b8c9?style=for-the-badge&logo=tailwind-css&logoColor=20b8c9&labelColor=101010)
 ![Django](https://img.shields.io/badge/django-4EA94B?style=for-the-badge&logo=django&logoColor=4EA94B&labelColor=101010)
+![Astro](https://img.shields.io/badge/astro-21124C?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=101010)
+
 
 </div>
 
