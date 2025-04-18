@@ -60,6 +60,7 @@ Welcome!
 &nbsp;&nbsp;&nbsp;&nbsp;![FastApi](https://img.shields.io/badge/fastapi-059386?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=101010)
 &nbsp;&nbsp;&nbsp;&nbsp;![Astro](https://img.shields.io/badge/astro-21124C?style=for-the-badge&logo=astro&logoColor=FFFFFF&labelColor=101010)
 &nbsp;&nbsp;&nbsp;&nbsp;![Next](https://img.shields.io/badge/next.js-F7A40E?style=for-the-badge&logo=next.js&logoColor=F7E200&labelColor=101010)
+&nbsp;&nbsp;&nbsp;&nbsp;![Vue.js](https://img.shields.io/badge/Vue.js-3FB27F?style=for-the-badge&logo=vue.js&logoColor=3FB27F&labelColor=101010)
 <br><br>
 
 </div>
@@ -83,7 +84,7 @@ Welcome!
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-233-blue)
 
 **I'm an Early 🐤** 
 
