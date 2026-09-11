@@ -1,0 +1,61 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "segwanda12@gmail.com"
+          git config --local user.name "MariaGargoles"
+
+      # this action name
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          SHOW_TIMEZONE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SYMBOL_VERSION: 2
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_UPDATED_DATE: "True"
+
+      - name: Fix commit author after WakaTime update
+        if: success()
+        run: |
+          # La acción de WakaTime hace commit automáticamente, necesitamos corregir el autor
+          # Verificar si hay un commit nuevo (la acción ya hizo push)
+          git fetch origin main || true
+          CURRENT_COMMIT=$(git rev-parse HEAD)
+          REMOTE_COMMIT=$(git rev-parse origin/main 2>/dev/null || echo "")
+          
+          # Si hay un commit nuevo que no es nuestro, corregirlo
+          if [ "$(git log -1 --format='%ae')" != "segwanda12@gmail.com" ]; then
+            git commit --amend --author="MariaGargoles <segwanda12@gmail.com>" --no-edit || true
+            git push --force-with-lease origin main || true
+          fi
+          
+          # Si hay cambios sin commitear, hacer commit con nuestro autor
+          if ! git diff --quiet HEAD; then
+            git add -A
+            git commit -m "Update WakaTime stats" --author="MariaGargoles <segwanda12@gmail.com>" || true
+            git push origin main || true
+          fi
