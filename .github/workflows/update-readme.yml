@@ -1,0 +1,20 @@
+name: Update README
+
+on:
+    schedule:
+        # Actualiza el README diariamente a las 00:00 UTC
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Update README
+              run: |
+                  echo "README actualizado automáticamente"
+                  git config --local user.email "segwanda12@gmail.com"
+                  git config --local user.name "MariaGargoles"
+                  git commit -m "Auto-update README" --allow-empty || true
+                  git push || true
