@@ -1,0 +1,28 @@
+{
+  "name": "mariagargoles",
+  "version": "1.0.0",
+  "description": "GitHub Profile README for Maria Gargoles - Full-stack Developer",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariagargoles/mariagargoles.git"
+  },
+  "keywords": [
+    "github-profile",
+    "readme",
+    "full-stack-developer"
+  ],
+  "author": "Maria Gargoles",
+  "license": "MIT",
+  "scripts": {
+    "validate": "echo 'Validating README.md structure...'",
+    "update": "echo 'Updating profile...'"
+  },
+  "dependencies": {
+    "git-filter-repo": "^0.0.30"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
